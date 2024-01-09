@@ -4,9 +4,9 @@
 
 <table align="center" width="100%">
   <tr>
-    <h3>My Tech Stack</h3>
+  
     <td align="center">
-     
+       <h3>My Tech Stack</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,bash,c,cpp,opencv,linux,py,fastapi,aws,html,css,bootstrap,js,mysql,docker&perline=4" alt="Tech Stack Icons">
       </a>
