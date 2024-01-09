@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Hello, (2).png" alt="Hello World">
+  <img src="I%20am%20suren.gif" alt="Alt Text">
 </p>
 
 <table align="center" width="100%">
