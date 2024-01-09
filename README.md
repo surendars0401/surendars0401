@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="I%20am%20suren.gif" alt="Alt Text">
+  <img src="codewithme.gif" alt="Alt Text">
 </p>
 
 <table align="center" width="100%">
