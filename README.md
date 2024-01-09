@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Hello, (1).png" alt="Hello World">
+  <img src="Hello, (2).png" alt="Hello World">
 </p>
 
 <table align="center" width="100%">
