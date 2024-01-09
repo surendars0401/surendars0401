@@ -7,6 +7,6 @@
 <div style="text-align: center;">
     <h3>My Tech Stack</h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,bash,c,cpp,opencv,linux,py,fastapi,aws,html,css,bootstrap,js,mysql&perline=8" alt="Tech Stack Icons">
+        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,bash,c,cpp,opencv,linux,py,fastapi,aws,html,css,bootstrap,js,mysql&perline=5" alt="Tech Stack Icons">
     </a>
 </div>
