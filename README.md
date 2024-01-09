@@ -5,6 +5,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src= "https://skillicons.dev/icons?i=arduino,raspberrypi,bash,c,cpp,opencv,linux,py,fastapi,aws,html,css,bootstrap,js,mysql&perline=4"/>
+      <img src= "https://skillicons.dev/icons?i=arduino,raspberrypi,bash,c,cpp,opencv,linux,py,fastapi,aws,html,css,bootstrap,js,mysql&perline=8"/>
   </a>
 </p>
