@@ -1,4 +1,4 @@
-
+<img src="path/to/your/image.jpg" alt="Description of the image">
 
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/surendars0401?ext=heatmap)
