@@ -15,6 +15,3 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="Hello, (2).png" alt="Hello World">
-</p>
