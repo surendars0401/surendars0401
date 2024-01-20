@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="Iamsuren.gif" alt="Alt Text">
 </p>
@@ -15,3 +16,6 @@
     </td>
   </tr>
 </table>
+<h2 align="center"> Looking for devs (AI/IoT/web) who can code </h2>
+
+<p align="center">https://discord.gg/UFCb29RJ2C</p>
